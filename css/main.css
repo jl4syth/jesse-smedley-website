@@ -1,0 +1,254 @@
+/*****BASE STYLES ****/
+
+h1 {
+  font-family: 'dancing script', cursive;
+}
+
+h3 {
+  font-family: 'roboto slab', serif;
+}
+
+h5 {
+  font-family: 'roboto', sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+p {
+  font-family: 'roboto';
+  font-weight: 400;
+}
+
+/*****HEADER*****/
+
+header {
+  background: url('../img/desk-background-2.png');
+  width: 1270px;
+  height: 800px;
+  float: left;
+}
+
+.titlesection {
+  font-size: 45px;
+  margin: 0px;
+  padding: 10px 0px 0px 20px;
+  float: left;
+  text-align: left;
+  color: white;
+}
+
+.introduction {
+  font-size: 48px;
+  color: white;
+  margin: 180px 0px 0px 0px;
+  padding: 0px 0px 0 200px;
+}
+
+/*****PORTFOLIO*****/
+
+.portfoliocontainer {
+  color: black;
+  width: 1270px;
+  height: 2650px;
+  background: #d3d6db ;
+
+}
+
+.portfoliotitle {
+  font-size: 36px;
+  text-align: center;
+  margin: 0px;
+  float: left;
+  width: 1270px;
+  height: 150px;
+}
+
+.project1pic {
+  float: left;
+  width: 500px;
+  height: 350px;
+  margin: 30px 0px 0px 100px;
+  padding: 0px 0px 0px 0px;
+}
+
+.project1 {
+  float: left;
+  width: 500px;
+  height: 400px;
+  margin: 0px 0 0 100px;
+  padding: 0px;
+  text-align: left;
+  font-size: 24px;
+}
+
+.project2pic {
+  float: left;
+  width: 500px;
+  height: 350px;
+  margin: 0px;
+  padding: 30px 0px 0px 100px;
+}
+
+.project2 {
+  float: left;
+  width: 500px;
+  height: 400px;
+  margin: 0px 0 0 100px;
+  padding: 0px;
+  font-size: 24px;
+}
+
+.project3pic {
+  float: left;
+  width: 500px;
+  height: 350px;
+  margin: 0px;
+  padding: 30px 0px 0px 100px;
+}
+
+.project3 {
+  float: left;
+  width: 500px;
+  height: 400px;
+  margin: 0px 0 0 100px;
+  padding: 0px;
+  font-size: 24px;
+}
+
+.project4pic {
+  float: left;
+  width: 500px;
+  height: 350px;
+  margin: 0px;
+  padding: 30px 0px 0px 100px;
+}
+
+.project4 {
+  float: left;
+  width: 500px;
+  height: 400px;
+  margin: 0px 0 0 100px;
+  padding: 0px 0px 100px 0px;
+  font-size: 24px;
+}
+
+/*****ABOUT*****/
+
+.aboutmeparent {
+  background: url('../img/wood-grain-background.png');
+  width: 1270px;
+  height: 750px;
+  float: left;
+}
+
+.aboutmetitle {
+  color: #f7f9fb;
+  font-family: 'roboto slab';
+  font-size: 36px;
+  text-align: center;
+  height: 100px;
+}
+
+.aboutmepic {
+  width: 500px;
+  margin: 0px 0px 0px 0px;
+  padding: 48px 0 0 80px;
+  float: left;
+}
+
+.aboutmebody {
+  float: left;
+  width: 500px;
+  color: #f7f9fb;
+  margin: 20px 0 0 100px;
+  padding: 0px;
+  font-size: 24px;
+}
+
+.aboutmecontinued {
+  font-size: 24px;
+  color: #f7f9fb;
+  padding: 0px 0px 0px 75px;
+  margin: 0px;
+  height: 200px;
+  width: 1100px;
+  clear: both;
+}
+
+/*****CONNECT*****/
+
+.connectparent {
+  background: url('../img/wood-grain-background.png');
+  width: 1270px;
+  height: 400px;
+  float: left;
+}
+
+.connecttitle {
+  color: #f7f9fb;
+  font-size: 36px;
+  font-family: 'roboto slab', sans-serif;
+  width: 546px;
+  float: left;
+  margin: 0;
+  padding: 0 0 0 300px;
+}
+
+.servicestitle {
+  color: #f7f9fb;
+  text-align: left;
+  font-size: 36px;
+  font-family: 'roboto slab', sans-serif;
+  width: 424px
+  float: left;
+  margin: 0 0 0 970px;
+  padding: 0;
+}
+
+.contact {
+  width: 250px;
+  color: #f7f9fb;
+  margin: 0px 50px 0px 50px;
+  padding: 0px 0px 0px 40px;
+  text-align: center;
+  float: left;
+  font-size: 24px;
+}
+
+.socialmediaparent {
+  width: 400px;
+  float: left;
+  color: #f7f9fb;
+  text-align: center;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 50px 0px 50px;
+}
+
+.socialmediaparent ul li {
+  display: inline-block;
+}
+
+.socialmediaparent ul img {
+  padding-right: 50px;
+}
+
+.skills {
+  width: 300px;
+  color: #f7f9fb;
+  float: left;
+  margin: 0px;
+  padding: 0px 0px 0px 50px;
+  font-size: 24px;
+  border-left: 1px solid #f7f9fb
+}
+
+.copyright {
+  clear: both;
+  background: url('../img/wood-grain-background.png');;
+  color: #f7f9fb;
+  text-align: center;
+  font-size: 18px;
+  width: 1270px;
+  height: 20px;
+  padding: 0px 0px 20px 0px;
+}
